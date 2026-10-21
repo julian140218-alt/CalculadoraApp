@@ -1,4 +1,4 @@
-package me.juliangarcia.calculadoraapp
+package me.juliangarcia.calculadoraapp.ui.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -14,6 +14,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import me.juliangarcia.calculadoraapp.CalculadoraViewModel
 
 @Composable
 fun PantallaInicio(

@@ -13,6 +13,8 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import me.juliangarcia.calculadoraapp.ui.screens.PantallaCalculadora
+import me.juliangarcia.calculadoraapp.ui.screens.PantallaInicio
 import me.juliangarcia.calculadoraapp.ui.theme.CalculadoraAppTheme
 
 object Rutas {
